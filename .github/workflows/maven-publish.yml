@@ -18,6 +18,9 @@ jobs:
       packages: write
 
     steps:
+    - name: Set mvnw permissions
+      run: chmod +x ./mvnw
+
     - name: Checkout code
       uses: actions/checkout@v3
       
