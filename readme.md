@@ -1,7 +1,7 @@
 ## Prerequisites:
 - Java JDK version 17+ should be installed in the system
 
-- test1
+- test11
 
 Check it here https://www.oracle.com/java/technologies/downloads/#java17
 or here https://adoptium.net/temurin/releases/
